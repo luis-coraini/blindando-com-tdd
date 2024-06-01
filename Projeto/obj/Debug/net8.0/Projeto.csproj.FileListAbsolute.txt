@@ -1,0 +1,14 @@
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\bin\Debug\net8.0\Projeto.exe
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\bin\Debug\net8.0\Projeto.deps.json
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\bin\Debug\net8.0\Projeto.dll
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\bin\Debug\net8.0\Projeto.pdb
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.dll
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.pdb
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+D:\DIO\Curso .net\Projetos\BlindandoComTDD\Projeto\obj\Debug\net8.0\ref\Projeto.dll
